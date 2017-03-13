@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 51,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -109,15 +109,15 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-11",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1e",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xperia-e4-screen-to-gather-round-08034d1f5e19a4709b07b3cddfc92793-2000x1125.jpg",
-            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/xperia-e4-screen-to-gather-round-08034d1f5e19a4709b07b3cddfc92793-2000x1123.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -125,12 +125,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#222",
             "showTitle": false,
-            "showCaption": false
+            "showText": false,
+            "showButton": false
           },
-          "title": "BACKGROUND IMAGE",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -139,8 +141,8 @@
           "_name": "contacts4",
           "_anchor": "contacts4-10",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -150,8 +152,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<br>\n120 Eglinton Ave E<br>\nToronto, ON M4P 1E2<br><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">info@shapiro.digital</span><br>+1 647 933 5576<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">Portfolio</a></li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
+          "text1": "",
+          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">A</a>bout</li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "191vinyls@gmail.com",
@@ -213,8 +215,8 @@
           },
           "_anchor": "contacts4-1c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -224,8 +226,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<br>\n120 Eglinton Ave E<br>\nToronto, ON M4P 1E2<br><br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">info@shapiro.digital</span><br>+1 647 933 5576<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">Portfolio</a></li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
+          "text1": "",
+          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">A</a>bout</li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "191vinyls@gmail.com",
