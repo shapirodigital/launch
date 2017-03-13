@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -413,36 +414,34 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-o .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
+#header1-1a .mbr-section-title {
   font-size: 100px;
+  font-family: 'Oswald', sans-serif;
 }
-#msg-box2-y .mbr-section-title {
-  color: #fff;
-  font-size: 36px;
+#header1-1a .mbr-section-lead SPAN {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
 }
-#msg-box2-y .mbr-section-subtitle {
-  color: #a0a0a0;
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1b H3 {
+  font-size: 25px;
 }
 #content5-11 .mbr-section-title,
 #content5-11 p {
   color: #fff;
 }
-#features2-19 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
-}
-#features2-19 .mbr-cards-col:nth-child(odd) .card-title {
-  color: #000000;
-}
-#features2-19 .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #000000;
-}
-#features2-19 .mbr-cards-col:nth-child(odd) .card-text {
-  color: #000000;
-}
 #contacts4-10 UL {
   color: #ffffff;
 }
 #contacts4-10 P {
+  color: #ffffff;
+}
+#contacts4-1c UL {
+  color: #ffffff;
+}
+#contacts4-1c P {
   color: #ffffff;
 }
