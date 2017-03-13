@@ -427,6 +427,18 @@ h6,
 #content5-11 p {
   color: #fff;
 }
+#features2-19 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features2-19 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features2-19 .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
+}
+#features2-19 .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}
 #contacts4-10 UL {
   color: #ffffff;
 }
