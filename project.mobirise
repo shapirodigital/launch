@@ -152,7 +152,7 @@
           "_params": {
             "columnsColor": "#ffffff",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -185,7 +185,7 @@
           },
           "title1": "Advertising",
           "subtitle1": "Bold, simple, beautiful ads",
-          "caption1": "Web display, social, mobile video and everything in between. We do it all, from start to finish. Market research, media strategy, the entire creative process, media buying and analytics.",
+          "caption1": "Web display, social, mobile video and everything in between. We do it all, from start to finish. Market research, media strategy, the entire creative process and analytics. You're welcome.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -200,7 +200,7 @@
           },
           "title2": "Content&nbsp;",
           "subtitle2": "Original content creation",
-          "caption2": "Blog posts, memes, original video, animations, infographs, lists, smileys, plenty of hashtags and more. Content marketing at it's finest.",
+          "caption2": "Blog posts, memes, original video, animations, infographs, lists, smileys, plenty of hashtags and more. Preferably all of the above. That's content marketing at it's finest.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -215,7 +215,7 @@
           },
           "title3": "Campaigns",
           "subtitle3": "Our Favorite.",
-          "caption3": "Design, planning and management. A 360° digital campaign includes multiple advertising, content marketing and community projects linked together by one \"big idea\", or general theme.",
+          "caption3": "360° campaign design, planning and management. Multiple advertising, content marketing and community projects wrapped up together by one big juicy idea. Delicious.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -230,7 +230,7 @@
           },
           "title4": "Community",
           "subtitle4": "Turn customers into friends.",
-          "caption4": "Community building and management. Networking, public relations, growth hacking, analytics, online reputation and ,more.",
+          "caption4": "Community development and management. Networking, public relations, growth hacking, analytics, online reputation and ,more. Facebook, Twitter, Instagam, Reddit, Linkedin, etc. #WhyCantWeBeFriends?",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
