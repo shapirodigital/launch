@@ -109,7 +109,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": ":creative agency",
-          "text": "advertising///////<br>content marketing///<br>creative campaigns///<br>community building"
+          "text": "<a href=\"index.html#features2-19\">advertising</a>///////<br><a href=\"index.html#features2-19\">content marketing</a>///<br><a href=\"index.html#features2-19\">creative campaigns</a>///<br><a href=\"index.html#features2-19\">community building</a>"
         },
         {
           "_styles": {
@@ -152,8 +152,8 @@
           "_anchor": "features2-19",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -294,8 +294,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<br>\n120 Eglinton Ave E<br>\nToronto, ON M4P 1E2<br><br><br><br>\ninfo@shapiro.digital<br>+1 647 933 5576<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://ca.linkedin.com/company-profile/shapiro-digital\" target=\"_blank\" class=\"text-white\">About</a></li><li><a href=\"http://www.instagram.com/shapirodigital\" target=\"_blank\">Portfolio</a></li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
+          "text1": "<br>\n120 Eglinton Ave E<br>\nToronto, ON M4P 1E2<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">info@shapiro.digital</span><br>+1 647 933 5576<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"http://www.instagram.com/shapirodigital\" target=\"_blank\">Portfolio</a></li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "191vinyls@gmail.com",
