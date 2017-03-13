@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -83,7 +83,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "25px"
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -97,7 +97,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Advertising • Content Marketing • Campaigns • Social&nbsp;",
+          "title": "Advertising • Content Marketing • &nbsp;Campaigns&nbsp;",
           "meta": ""
         },
         {
@@ -139,7 +139,15 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-10",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1c",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -153,7 +161,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "",
-          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">A</a>bout</li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">A</a>bout</li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "191vinyls@gmail.com",
@@ -182,15 +190,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "_styles": {
-            "UL": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -227,7 +227,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "",
-          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">A</a>bout</li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li>Blog</li><li><a href=\"page1.html\" target=\"_blank\">A</a>bout</li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "191vinyls@gmail.com",
