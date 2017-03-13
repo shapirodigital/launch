@@ -109,7 +109,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
           "title": ":creative agency",
-          "text": "<a href=\"index.html#features2-19\">advertising</a>///////<br><a href=\"index.html#features2-19\">content marketing</a>///<br><a href=\"index.html#features2-19\">creative campaigns</a>///<br><a href=\"index.html#features2-19\">community building</a>"
+          "text": ""
         },
         {
           "_styles": {
@@ -152,8 +152,8 @@
           "_anchor": "features2-19",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -186,7 +186,7 @@
           },
           "title1": "Advertising",
           "subtitle1": "Bold, simple, beautiful ads",
-          "caption1": "Web display, social, mobile video and everything in between. We do it all, from start to finish. Market research, media strategy, the creative process and analytics.&nbsp;",
+          "caption1": "&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -201,7 +201,7 @@
           },
           "title2": "Content&nbsp;",
           "subtitle2": "Original content creation",
-          "caption2": "Blog posts, memes, original video, animations, infographs, lists, smileys, plenty of hashtags and more. Preferably all of the above. That's content marketing at it's finest.",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -216,7 +216,7 @@
           },
           "title3": "Campaigns",
           "subtitle3": "Our Favorite.",
-          "caption3": "360° campaign design, planning and management - Multiple advertising, content marketing and community projects wrapped up together by one big, juicy idea.&nbsp;",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -231,7 +231,7 @@
           },
           "title4": "Community",
           "subtitle4": "Turn customers into friends.",
-          "caption4": "Community development and management. Networking, PR, growth hacking, analytics, online reputation, etc. #YCantWeBFriends?",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
