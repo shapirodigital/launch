@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 57,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -41,6 +41,18 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "100px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "25px"
+            }
+          },
           "_anchor": "header1-1a",
           "_params": {
             "parallax": true,
@@ -62,20 +74,8 @@
             "showButtons": false
           },
           "title": "SHAPIRO DIGITAL",
-          "text": "<span style=\"font-style: normal;\">:creative agency</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "100px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "25px"
-            }
-          }
+          "text": "<span style=\"font-style: normal;\">:web agency</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -97,7 +97,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Advertising • Content Marketing • &nbsp;Campaigns&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Advertising • Social Media Marketing • Public Relations</span> &nbsp;",
           "meta": ""
         },
         {
@@ -130,7 +130,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
+          "title": "WE &nbsp;BUILD BRANDS",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -139,18 +139,10 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_styles": {
-            "UL": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts4-1c",
+          "_anchor": "contacts4-1k",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -160,8 +152,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "",
-          "text2": "<ul class=\"mbr-contacts__list\"><li><a href=\"https://shapirodigital.tumblr.com\" target=\"_blank\">Blog</a></li><li><a href=\"https://www.linkedin.com/company/shapiro-digital\" target=\"_blank\">About</a></li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\" class=\"text-white\">Twitter</a></li></ul>",
+          "text1": "<br>2 Bloor St. E<br>Toronto, ON M4W 1A8<br>info@shapiro.digital<br>+1 647 933 5576<br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/company/shapiro-digital\" target=\"_blank\">About</a></li><li><a href=\"http://www.twitter.com/shapirodigital\" target=\"_blank\">Twitter</a></li><li><a class=\"text-white\" href=\"http://shapirodigital.tumblr.com\" target=\"_blank\">Blog</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "191vinyls@gmail.com",
@@ -190,7 +182,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
