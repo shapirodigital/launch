@@ -578,6 +578,9 @@ h6,
 #contacts4-1k P {
   font-size: 25px;
 }
+#contacts4-1k B {
+  font-size: 30px;
+}
 
 #msg-box2-30 .mbr-section-title {
   color: #2d2d2d;
@@ -587,6 +590,9 @@ h6,
 }
 #contacts4-1k P {
   font-size: 25px;
+}
+#contacts4-1k B {
+  font-size: 30px;
 }
 #ext_menu-26 .hide-buttons .nav-btn {
   display: none !important;
