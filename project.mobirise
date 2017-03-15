@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 103,
+    "uniqCompNum": 105,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -152,7 +152,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WATCH AD</a>",
           "title": "<span style=\"font-weight: normal;\">DIGITAL MARKETING<br>MADE EASY.</span>",
-          "text": "Simple"
+          "text": "It really is this simple."
         },
         {
           "_inherit": "features1",
@@ -334,13 +334,13 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-2u",
+          "_anchor": "content2-2w",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-family: Lora, serif; font-size: 1.09rem; font-style: italic; line-height: 1.5;\">Every great marketer loves campaigns, because this is where we shineOne great campaign can take a brand to the next level. 360° digital campaign integrates advertising, social media marketing and public relations, using all possible contact points to engage the target audience. Each 360 </span><span style=\"font-size: 1.09rem; line-height: 25px;\">&nbsp;</span><span style=\"font-family: Lora, serif; font-size: 1.09rem; font-style: italic; line-height: 1.5;\">campaign revolves around The Big Idea, a &nbsp;single message that remains consistent across all platforms</span><br></p>"
+          "text": "<blockquote>360° digital campaigns integrate advertising, social media marketing and public relations, using all possible contact points to engage the target audience. Each campaign revolves around a \"Big Idea\", a single message that remains consistent across all platforms throughout. &nbsp;</blockquote>"
         },
         {
           "_styles": {
