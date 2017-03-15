@@ -475,28 +475,9 @@ h6,
 #header3-2c SMALL {
   color: #979797;
 }
-#content2-2d BLOCKQUOTE {
-  text-align: left;
-}
-#header3-1w .mbr-section-title,
-#header3-1w .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1v .mbr-section-title,
-#header3-1v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1v H3 {
-  font-size: 30px;
-}
-#msg-box2-2h .mbr-section-title {
+#social-buttons2-2m .mbr-section-title,
+#social-buttons2-2m .btn-social {
   color: #232323;
-}
-#msg-box2-2h .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#msg-box2-2h .mbr-section-title SPAN {
-  font-size: 36px;
 }
 
 
