@@ -182,7 +182,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -197,7 +197,7 @@
           },
           "title1": "Advertising",
           "subtitle1": "Strategy and creativity unite!",
-          "caption1": "Web display, social. mobile video and more. We do it all, from start to finish - Market research, media strategy, the creative process and analytics.&nbsp;",
+          "caption1": "Web display, social. mobile video and more. We do it all, from start to finish - Market research, media strategy, the creative process and analytics. Our ad team has the highest levels of experience, from the best advertising schools and the biggest agencies.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -212,7 +212,7 @@
           },
           "title2": "Social Media",
           "subtitle2": "Turn customers into friends.",
-          "caption2": "Our team has",
+          "caption2": "Our social media team has worked with brands all over the globe, from local businesses to tech startups to huge corporations. We've also collaborated with a few of the biggest ad agencies in the world on several community building projects. We know our stuff.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -226,8 +226,8 @@
             }
           },
           "title3": "Public Relations",
-          "subtitle3": "The world is yours!",
-          "caption3": "36o* digital campaign design, p",
+          "subtitle3": "The world is watching!",
+          "caption3": "Our PR team provides a wide range of services. Event marketing and sponsorship, media relations, reputation management, customer service and more. Fun fact: &nbsp;Our agency used to be called SHAIOPR, Shapiro Online Public Relations. Shapiro Digital sounds better.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -340,7 +340,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-style: normal;\">One great campaign can change a brand's destiny. Our idea of a perfect campaign is three things: simple, bold and beautiful. Every campaign revolves around a \"Big Idea\", &nbsp;a single message that remains consistent across all platforms. 360° digital campaigns integrate advertising, social media marketing and public relations, using all possible contact points to engage the target audience. &nbsp;Campaigns can last as little as a week and as long as 3 months and are designed to reach specific objectives. &nbsp;We manage our campaigns with next gen analytics and media strategy, monitoring engagement levels and making adjustments along the way, optimizing efficency.</span>&nbsp; <span style=\"font-style: normal;\">360° campaigns are especially useful for promoting upcoming events, new products and rebranding . Email us with specifics for more info!</span></blockquote>"
+          "text": "<blockquote><span style=\"font-style: normal;\">One great campaign can change a brand's destiny. Our idea of a perfect campaign is three things: simple, bold and beautiful. Every campaign revolves around a \"Big Idea\", &nbsp;a single message that remains consistent across all platforms. 360° digital campaigns integrate advertising, social media marketing and public relations, using all possible contact points to engage the target audience. &nbsp;Campaigns can last as little as a week and as long as 3 months and are designed to reach specific objectives. &nbsp;We manage our campaigns with next gen analytics and media strategies, monitoring engagement levels and making adjustments along the way, optimizing efficency.</span>&nbsp; <span style=\"font-style: normal;\">360° campaigns are especially useful for promoting upcoming events, new products and rebranding . <b>Email us!</b></span></blockquote>"
         },
         {
           "_styles": {
@@ -369,7 +369,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"http://www.instagram.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://shapirodigital.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/shapiro-digital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
