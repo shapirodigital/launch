@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 105,
+    "uniqCompNum": 108,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -182,7 +182,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -196,8 +196,8 @@
             }
           },
           "title1": "Advertising",
-          "subtitle1": "Bold, simple, beautiful ads",
-          "caption1": "Web display, Social, Mobile Video and more. We do it all. Start to finish. Market research, media strategy, the creative process and analytics.",
+          "subtitle1": "Strategy and creativity unite!",
+          "caption1": "Web display, social. mobile video and more. We do it all, from start to finish - Market research, media strategy, the creative process and analytics.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -212,7 +212,7 @@
           },
           "title2": "Social Media",
           "subtitle2": "Turn customers into friends.",
-          "caption2": "<br>Brand Management<br>Content Marketing",
+          "caption2": "Our team has",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -337,24 +337,27 @@
           "_anchor": "content2-2w",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<blockquote>360° digital campaigns integrate advertising, social media marketing and public relations, using all possible contact points to engage the target audience. Each campaign revolves around a \"Big Idea\", a single message that remains consistent across all platforms throughout. &nbsp;</blockquote>"
+          "text": "<blockquote><span style=\"font-style: normal;\">One great campaign can change a brand's destiny. Our idea of a perfect campaign is three things: simple, bold and beautiful. Every campaign revolves around a \"Big Idea\", &nbsp;a single message that remains consistent across all platforms. 360° digital campaigns integrate advertising, social media marketing and public relations, using all possible contact points to engage the target audience. &nbsp;Campaigns can last as little as a week and as long as 3 months and are designed to reach specific objectives. &nbsp;We manage our campaigns with next gen analytics and media strategy, monitoring engagement levels and making adjustments along the way, optimizing efficency.</span>&nbsp; <span style=\"font-style: normal;\">360° campaigns are especially useful for promoting upcoming events, new products and rebranding . Email us with specifics for more info!</span></blockquote>"
         },
         {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-2m",
+          "_anchor": "social-buttons2-2z",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -366,7 +369,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -375,7 +378,7 @@
           "_name": "footer1",
           "_anchor": "footer1-2s",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,

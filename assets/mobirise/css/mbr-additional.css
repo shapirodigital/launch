@@ -475,9 +475,12 @@ h6,
 #header3-2c SMALL {
   color: #979797;
 }
-#social-buttons2-2m .mbr-section-title,
-#social-buttons2-2m .btn-social {
+#social-buttons2-2z .mbr-section-title,
+#social-buttons2-2z .btn-social {
   color: #232323;
+}
+#social-buttons2-2z .mbr-section-title {
+  font-size: 30px;
 }
 #footer1-2s P {
   color: #5b5b5b;
