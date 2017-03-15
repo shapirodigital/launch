@@ -479,6 +479,9 @@ h6,
 #social-buttons2-2m .btn-social {
   color: #232323;
 }
+#footer1-2s P {
+  color: #5b5b5b;
+}
 
 
 
@@ -568,4 +571,10 @@ h6,
 #ext_menu-26 .link[aria-expanded="true"],
 #ext_menu-26 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#contacts4-1k P {
+  font-size: 25px;
+}
+#contacts4-1k P {
+  font-size: 25px;
 }
