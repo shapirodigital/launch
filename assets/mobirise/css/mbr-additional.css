@@ -8,8 +8,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -460,30 +458,12 @@ h6,
 #features2-1r .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #232323;
 }
-#header3-2c .mbr-section-title,
-#header3-2c .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2c H3 {
-  font-family: 'Oswald', sans-serif;
-}
-#header3-2c SPAN {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  color: #ffffff;
-}
-#header3-2c SMALL {
-  color: #979797;
-}
-#social-buttons2-2z .mbr-section-title,
-#social-buttons2-2z .btn-social {
-  color: #232323;
-}
-#social-buttons2-2z .mbr-section-title {
-  font-size: 30px;
-}
 #footer1-2s P {
   color: #5b5b5b;
+}
+#social-buttons2-34 .mbr-section-title,
+#social-buttons2-34 .btn-social {
+  color: #232323;
 }
 
 
