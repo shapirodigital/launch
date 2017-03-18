@@ -423,6 +423,10 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 25px;
 }
+#msg-box8-35 .mbr-section-title,
+#msg-box8-35 p {
+  color: #fff;
+}
 #msg-box2-1t .mbr-section-title {
   color: #232323;
   font-family: 'Oswald', sans-serif;
