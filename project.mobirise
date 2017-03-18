@@ -93,7 +93,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cellphone-2000x1063.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/smartphones-01-amykilloran-2000x730.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
