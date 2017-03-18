@@ -89,11 +89,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-35",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/smartphones-01-amykilloran-2000x730.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/minimal-devices-2000x1500.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
