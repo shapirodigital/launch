@@ -427,6 +427,10 @@ h6,
 #msg-box8-35 p {
   color: #fff;
 }
+#msg-box8-36 .mbr-section-title,
+#msg-box8-36 p {
+  color: #fff;
+}
 #msg-box2-1t .mbr-section-title {
   color: #232323;
   font-family: 'Oswald', sans-serif;
@@ -457,10 +461,6 @@ h6,
 }
 #features2-1r .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #232323;
-}
-#msg-box8-36 .mbr-section-title,
-#msg-box8-36 p {
-  color: #fff;
 }
 #footer1-2s P {
   color: #5b5b5b;
