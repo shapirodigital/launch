@@ -7,7 +7,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -415,13 +414,16 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-1a .mbr-section-title {
-  font-size: 100px;
-  font-family: 'Oswald', sans-serif;
+#msg-box8-37 .mbr-section-title,
+#msg-box8-37 p {
+  color: #fff;
 }
-#header1-1a .mbr-section-lead SPAN {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 25px;
+#msg-box8-37 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 72px;
+}
+#msg-box8-37 .lead P {
+  font-size: 20px;
 }
 #msg-box8-36 .mbr-section-title,
 #msg-box8-36 p {
