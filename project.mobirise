@@ -58,7 +58,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-37",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
