@@ -91,8 +91,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-36",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/minimal-devices-2000x750.png",
