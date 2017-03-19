@@ -425,23 +425,17 @@ h6,
 #msg-box8-37 .lead P {
   font-size: 20px;
 }
-#msg-box8-36 .mbr-section-title,
-#msg-box8-36 p {
+#msg-box8-3a .mbr-section-title,
+#msg-box8-3a p {
   color: #fff;
 }
-#msg-box8-38 .mbr-section-title,
-#msg-box8-38 p {
-  color: #fff;
+#header3-39 .mbr-section-title,
+#header3-39 .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box2-1t .mbr-section-title {
-  color: #232323;
+#header3-39 H3 {
   font-family: 'Oswald', sans-serif;
-}
-#msg-box2-1t .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#msg-box2-1t .mbr-section-title SPAN {
-  color: #232323;
+  font-size: 46px;
 }
 #features2-1r .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;

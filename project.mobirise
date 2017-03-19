@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 119,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/s2d2-128x136.png",
     "noImageResize": ""
@@ -61,10 +61,10 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/minimal-devices-2000x750.png",
             "bgColor": "#28324e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -90,44 +90,10 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-36",
+          "_anchor": "msg-box8-3a",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/minimal-devices-2000x750.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-38",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/xaxxa-2000x750.png",
@@ -140,56 +106,38 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false
           },
-          "title": "",
+          "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#232323",
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#232323"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1t",
+          "_name": "header3",
+          "_anchor": "header3-39",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showTitle": true,
-            "showText": true
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WATCH AD</a>",
-          "title": "<p>DIGITAL MARKETING MADE&nbsp;<span style=\"font-size: 3rem; line-height: 1.1;\">EASY.</span></p><p><span style=\"font-weight: normal;\"></span></p>",
-          "text": "It really is this simple."
+          "title": "<span style=\"font-weight: normal;\">DIGITAL MARKETING<br>MADE EASY.</span>",
+          "meta": ""
         },
         {
           "_inherit": "features1",
@@ -197,6 +145,29 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "features2-1r",
           "_params": {
             "columnsColor": "#ffffff",
@@ -308,36 +279,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#232323"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#232323"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#232323"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#232323"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#232323"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#232323"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#5b5b5b"
+            }
+          },
           "_anchor": "footer1-2s",
           "_params": {
             "paddingTop": "1",
@@ -351,12 +304,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<a href=\"page2.html\">info@shapiro.digital</a> &nbsp;+1 647 933 5576",
-          "_styles": {
-            "P": {
-              "color": "#5b5b5b"
-            }
-          }
+          "text": "<a href=\"page2.html\">info@shapiro.digital</a> &nbsp;+1 647 933 5576"
         },
         {
           "_styles": {
@@ -397,6 +345,11 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#28324e"
+            }
+          },
           "_anchor": "msg-box1-27",
           "_params": {
             "paddingTop": "1",
@@ -420,18 +373,22 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": ".",
-          "_styles": {
-            "H3": {
-              "color": "#28324e"
-            }
-          }
+          "title": "."
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SPAN": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "msg-box1-28",
           "_params": {
             "paddingTop": "2",
@@ -455,40 +412,38 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "<span style=\"font-weight: normal;\">ADVERTISING</span>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "SPAN": {
-              "color": "#232323"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\">ADVERTISING</span>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "content2-21",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retEFWFWFFWFFWPGFJWJIIJFWIJRIJIJGIJGIWJIGWJIGJWIGJGWIJGIJGIGJIWGJIGJIGJable today. IGIWJGIJGWIJGIGWJIGJWGIJGIWJGIGJIGJIGJIGJWIGJIGJGIJGIJGIGJWIGJIGJIWGJIGJWIJGIGJIGWJGIJGIWJGIWJGIGJWIGGUJGUOBGQBJGQGGOIJNGIJGRIOJIGRJGRIOJWGOIt also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.54Y4Y54Y5ake your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retEFWFWFFWFFWPGFJWJIIJFWIJRIJIJGIJGIWJIGWJIGJWIGJGWIJGIJGIGJIWGJIGJIGJable today. IGIWJGIJGWIJGIGWJIGJWGIJGIWJGIGJIGJIGJIGJWIGJIGJGIJGIJGIGJWIGJIGJIWGJIGJWIJGIGJIGWJGIJGIWJGIWJGIGJWIGGUJGUOBGQBJGQGGOIJNGIJGRIOJIGRJGRIOJWGOIt also gives you the freedom to develop as many</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#232323"
-            }
-          }
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retEFWFWFFWFFWPGFJWJIIJFWIJRIJIJGIJGIWJIGWJIGJWIGJGWIJGIJGIGJIWGJIGJIGJable today. IGIWJGIJGWIJGIGWJIGJWGIJGIWJGIGJIGJIGJIGJWIGJIGJGIJGIJGIGJWIGJIGJIWGJIGJWIJGIGJIGWJGIJGIWJGIWJGIGJWIGGUJGUOBGQBJGQGGOIJNGIJGRIOJIGRJGRIOJWGOIt also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.54Y4Y54Y5ake your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retEFWFWFFWFFWPGFJWJIIJFWIJRIJIJGIJGIWJIGWJIGJWIGJGWIJGIJGIGJIWGJIGJIGJable today. IGIWJGIJGWIJGIGWJIGJWGIJGIWJGIGJIGJIGJIGJWIGJIGJGIJGIJGIGJWIGJIGJIWGJIGJWIJGIGJIGWJGIJGIWJGIWJGIGJWIGGUJGUOBGQBJGQGGOIJNGIJGRIOJIGRJGRIOJWGOIt also gives you the freedom to develop as many</blockquote>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-29",
           "_params": {
             "paddingTop": "1",
@@ -512,38 +467,38 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "<span style=\"font-weight: normal;\">SOCIAL MEDIA</span>",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\">SOCIAL MEDIA</span>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content2-22",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#28324e"
           },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            "SPAN": {
+              "color": "#232323",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "msg-box1-2a",
           "_params": {
             "paddingTop": "1",
@@ -567,14 +522,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "<span style=\"font-weight: normal;\">PUBLIC RELATIONS</span>",
-          "_styles": {
-            "SPAN": {
-              "color": "#232323",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "title": "<span style=\"font-weight: normal;\">PUBLIC RELATIONS</span>"
         },
         {
           "_inherit": "menu",
@@ -669,6 +617,14 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "contacts4-1k",
           "_params": {
             "paddingTop": "2",
@@ -712,15 +668,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "font-size": "25px"
-            },
-            "B": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -773,6 +721,14 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "contacts4-1k",
           "_params": {
             "paddingTop": "2",
@@ -816,15 +772,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "font-size": "25px"
-            },
-            "B": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_inherit": "menu",
