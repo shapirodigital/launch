@@ -95,7 +95,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/xaxxa-2000x750.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/minimal-devices-2000x750.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
