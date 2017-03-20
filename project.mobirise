@@ -88,6 +88,9 @@
             },
             ".lead P": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -101,7 +104,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/xaxxa-2000x750.png",
-            "bgColor": "#ffffff",
+            "bgColor": "#1e1e1e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

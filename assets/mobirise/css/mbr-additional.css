@@ -431,6 +431,9 @@ h6,
 #msg-box8-37 .lead P {
   font-size: 20px;
 }
+#msg-box8-37 .mbr-section-title SPAN {
+  color: #ffffff;
+}
 #features2-3i .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
