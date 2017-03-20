@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -413,25 +414,21 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-3n .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 100px;
+}
 #msg-box8-37 .mbr-section-title,
 #msg-box8-37 p {
   color: #fff;
 }
 #msg-box8-37 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 72px;
-  color: #232323;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: #ffffff;
 }
 #msg-box8-37 .lead P {
   font-size: 20px;
-}
-#msg-box8-3l .mbr-section-title,
-#msg-box8-3l p {
-  color: #fff;
-}
-#msg-box8-3l .lead P {
-  font-size: 25px;
-  color: #000000;
 }
 #features2-3i .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
