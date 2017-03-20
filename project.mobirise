@@ -100,7 +100,7 @@
           "_anchor": "msg-box8-37",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/xaxxa-2000x750.png",
