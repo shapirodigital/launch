@@ -417,6 +417,7 @@ h6,
 #header1-3n .mbr-section-title {
   font-family: 'Oswald', sans-serif;
   font-size: 100px;
+  color: #232323;
 }
 #msg-box8-37 .mbr-section-title,
 #msg-box8-37 p {
@@ -424,8 +425,8 @@ h6,
 }
 #msg-box8-37 .mbr-section-title {
   font-family: 'Montserrat', sans-serif;
-  font-size: 24px;
-  color: #ffffff;
+  font-size: 30px;
+  color: #232323;
 }
 #msg-box8-37 .lead P {
   font-size: 20px;
@@ -619,7 +620,7 @@ h6,
 }
 #ext_menu-26 .link[aria-expanded="true"],
 #ext_menu-26 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #header3-3f .mbr-section-title,
 #header3-3f .mbr-section-subtitle {
