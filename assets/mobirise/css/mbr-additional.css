@@ -606,6 +606,7 @@ h6,
 }
 #header3-3f H3 {
   font-size: 36px;
+  text-align: right;
 }
 #features2-3e .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;

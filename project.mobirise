@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "Shapiro Digital",
     "theme": {
       "name": "mobirise3",
@@ -658,7 +658,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "right"
             }
           },
           "_tags": [
