@@ -420,13 +420,37 @@ h6,
 #msg-box8-37 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
   font-size: 72px;
+  color: #000000;
 }
 #msg-box8-37 .lead P {
   font-size: 20px;
 }
-#msg-box8-3a .mbr-section-title,
-#msg-box8-3a p {
+#msg-box8-3l .mbr-section-title,
+#msg-box8-3l p {
   color: #fff;
+}
+#msg-box8-3l .lead P {
+  font-size: 25px;
+  color: #000000;
+}
+#features2-3i .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features2-3i .mbr-cards-col:nth-child(odd) .card-title {
+  color: #232323;
+}
+#features2-3i .mbr-cards-col:nth-child(odd) .card-text {
+  color: #232323;
+}
+#features2-3i .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #5b5b5b;
+}
+#social-buttons2-3m .mbr-section-title,
+#social-buttons2-3m .btn-social {
+  color: #232323;
+}
+#footer1-3d P {
+  color: #5b5b5b;
 }
 
 
