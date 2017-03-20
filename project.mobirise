@@ -114,7 +114,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false
           },
           "title": "<span style=\"font-weight: normal;\">digital marketing&nbsp;made easy.</span>",
