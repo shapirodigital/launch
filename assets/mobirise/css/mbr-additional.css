@@ -6,7 +6,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -429,13 +428,12 @@ h6,
 #msg-box8-3a p {
   color: #fff;
 }
-#header3-39 .mbr-section-title,
-#header3-39 .mbr-section-subtitle {
+#header3-3c .mbr-section-title,
+#header3-3c .mbr-section-subtitle {
   text-align: center;
 }
-#header3-39 H3 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 46px;
+#header3-3c H3 {
+  font-size: 36px;
 }
 #features2-1r .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;

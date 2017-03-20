@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 119,
+    "uniqCompNum": 121,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/s2d2-128x136.png",
     "noImageResize": ""
@@ -120,24 +120,22 @@
               "text-align": "center"
             },
             "H3": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-39",
+          "_anchor": "header3-3c",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": false
           },
-          "title": "<span style=\"font-weight: normal;\">DIGITAL MARKETING<br>MADE EASY.</span>",
-          "meta": ""
+          "title": "<span style=\"font-weight: normal;\">digital marketing made easy.</span>",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "features1",
@@ -171,8 +169,8 @@
           "_anchor": "features2-1r",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
