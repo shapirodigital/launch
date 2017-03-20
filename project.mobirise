@@ -129,8 +129,8 @@
           "_name": "header3",
           "_anchor": "header3-3c",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingTop": "5",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": false
           },
