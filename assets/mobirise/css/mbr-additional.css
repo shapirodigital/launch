@@ -25,8 +25,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -551,22 +549,6 @@ h6,
 #header3-4y .mbr-section-title,
 #header3-4y .mbr-section-subtitle {
   text-align: center;
-}
-#header3-4x .mbr-section-title,
-#header3-4x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4x H3 {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-}
-#header3-4x SMALL {
-  color: #ffffff;
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box8-4w .mbr-section-title,
-#msg-box8-4w p {
-  color: #fff;
 }
 
 
