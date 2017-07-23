@@ -720,8 +720,8 @@
           "_name": "header3",
           "_anchor": "header3-4u",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -749,7 +749,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -790,7 +790,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vision7-international-owler-20160228-002354-original-600x157.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-600x152.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
