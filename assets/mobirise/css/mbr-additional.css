@@ -24,6 +24,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -523,6 +524,10 @@ h6,
 #msg-box8-4z p {
   color: #fff;
 }
+#social-buttons2-51 .mbr-section-title,
+#social-buttons2-51 .btn-social {
+  color: #232323;
+}
 #footer1-49 P {
   color: #000000;
   font-size: 18px;
@@ -539,6 +544,14 @@ h6,
 #features3-4l P {
   font-family: 'Roboto', sans-serif;
   font-size: 25px;
+}
+#header3-52 .mbr-section-title,
+#header3-52 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-52 H3 {
+  color: #3d8eb9;
+  font-family: 'Roboto', sans-serif;
 }
 
 
