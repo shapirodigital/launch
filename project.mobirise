@@ -548,7 +548,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>&nbsp;</b>josh@shapiro.digital | 1.647.933.5576",
+          "text": "<b>&nbsp;</b><a href=\"page3.html\">josh@shapiro.digital</a> | 1.647.933.5576",
           "_styles": {
             "P": {
               "color": "#000000",
@@ -1583,7 +1583,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>&nbsp;</b>josh@shapiro.digital | 1.647.933.5576"
+          "text": "<b>&nbsp;</b><a href=\"page3.html\">josh@shapiro.digital</a> | 1.647.933.5576"
         }
       ]
     }
