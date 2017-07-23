@@ -139,7 +139,7 @@
             }
           },
           "title": "marketing, simplified.",
-          "text": "SHAPIRO DIGITAL is a communications agency specialzing in advertising, social media marketing and public relations. We believe in the power of simplicity.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span>Our motto -&nbsp;Bold. Simple. Beautiful.<i>&nbsp;</i>",
+          "text": "SHAPIRO DIGITAL is a communications agency specialzing in advertising, social media marketing and public relations. We believe in the power of simplicity.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span>Our motto -&nbsp;<i>Bold. Simple. Beautiful.&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
@@ -701,32 +701,6 @@
               "font-size": "25px"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "36px",
-              "color": "#3d8eb9"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-4u",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "our friends",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [

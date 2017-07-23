@@ -24,7 +24,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -540,15 +539,6 @@ h6,
 #features3-4l P {
   font-family: 'Roboto', sans-serif;
   font-size: 25px;
-}
-#header3-4u .mbr-section-title,
-#header3-4u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4u H3 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 36px;
-  color: #3d8eb9;
 }
 
 
