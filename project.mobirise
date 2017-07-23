@@ -583,8 +583,8 @@
           "_name": "features3",
           "_anchor": "features3-4l",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
