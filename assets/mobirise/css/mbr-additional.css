@@ -26,6 +26,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -514,10 +515,11 @@ h6,
 }
 #msg-box8-4e .mbr-section-title SPAN {
   font-size: 30px;
+  font-family: 'Roboto', sans-serif;
 }
 #msg-box8-4e .mbr-section-title {
-  font-size: 46px;
-  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-family: 'Roboto', sans-serif;
   color: #ffffff;
 }
 #footer1-49 P {
@@ -535,7 +537,7 @@ h6,
 }
 #features3-4l P {
   font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+  font-size: 25px;
 }
 #header3-4u .mbr-section-title,
 #header3-4u .mbr-section-subtitle {
@@ -546,16 +548,25 @@ h6,
   font-size: 36px;
   color: #3d8eb9;
 }
-#msg-box5-4t H3 {
-  font-family: 'Roboto', sans-serif;
-  color: #3d8eb9;
-  font-size: 36px;
+#header3-4y .mbr-section-title,
+#header3-4y .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box5-4t P {
+#header3-4x .mbr-section-title,
+#header3-4x .mbr-section-subtitle {
   text-align: center;
+}
+#header3-4x H3 {
+  color: #ffffff;
   font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+}
+#header3-4x SMALL {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box8-4w .mbr-section-title,
+#msg-box8-4w p {
+  color: #fff;
 }
 
 
