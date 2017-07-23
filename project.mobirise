@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 184,
+    "uniqCompNum": 185,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/s2d2-128x136.png",
     "noImageResize": ""
@@ -139,7 +139,7 @@
             }
           },
           "title": "marketing, simplified.",
-          "text": "SHAPIRO DIGITAL is a communications agency specialzing in advertising, social media marketing and public relations. We believe in the power of simplicity.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span>Our motto:&nbsp;<i>Bold. Simple. Beautiful.&nbsp;</i>",
+          "text": "SHAPIRO DIGITAL is a communications agency specializing in advertising, social media marketing and public relations. We believe in the power of simplicity.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span>Our motto:&nbsp;<i>Bold. Simple. Beautiful.&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
@@ -479,7 +479,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/machine_learning-2000x1229.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -542,16 +542,16 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>&nbsp;</b><a href=\"page2.html\" target=\"_blank\" class=\"text-info\">josh@shapiro.digital</a> | 1.647.933.5576",
+          "text": "<b>&nbsp;</b><a href=\"page2.html\" target=\"_blank\" class=\"text-white\">josh@shapiro.digital</a> | 1.647.933.5576",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "18px"
             }
           }
@@ -708,7 +708,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#3d8eb9",
+              "color": "#ffffff",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
@@ -721,7 +721,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "showMeta": true
           },
           "title": "our clients",
@@ -960,6 +960,33 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-54",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\".https://www.linkedin.com/company/shapiro-digital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -1566,7 +1593,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "18px"
             }
           },
@@ -1577,13 +1604,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>&nbsp;</b><a href=\"page2.html\" target=\"_blank\" class=\"text-info\">josh@shapiro.digital</a> | 1.647.933.5576"
+          "text": "<b>&nbsp;</b><a href=\"page2.html\" target=\"_blank\" class=\"text-white\">josh@shapiro.digital</a> | 1.647.933.5576"
         }
       ]
     }

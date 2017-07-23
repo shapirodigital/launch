@@ -525,7 +525,7 @@ h6,
   color: #fff;
 }
 #footer1-49 P {
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
 }
 #header3-4p .mbr-section-title,
@@ -546,8 +546,12 @@ h6,
   text-align: center;
 }
 #header3-52 H3 {
-  color: #3d8eb9;
+  color: #ffffff;
   font-family: 'Roboto', sans-serif;
+}
+#social-buttons4-54 .mbr-section-title,
+#social-buttons4-54 .btn-social {
+  color: #fff;
 }
 
 
@@ -678,6 +682,6 @@ h6,
   color: #232323;
 }
 #footer1-3d P {
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
 }
