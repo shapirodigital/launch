@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 171,
+    "uniqCompNum": 175,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/s2d2-128x136.png",
     "noImageResize": ""
@@ -139,18 +139,26 @@
             }
           },
           "title": "marketing, simplified.",
-          "text": "SHAPIRO DIGITAL is a communications agency specialzing in advertising, social media marketing and public relations. We believe in <span style=\"font-size: 1.07rem; line-height: 1.5;\">the power of simplicity.&nbsp;</span>Our motto -&nbsp;<b>Bold.</b> Simple. <i>Beautiful.&nbsp;</i>",
+          "text": "SHAPIRO DIGITAL is a communications agency specialzing in advertising, social media marketing and public relations. We believe in the power of simplicity.<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span>Our motto -&nbsp;Bold. Simple. Beautiful.<i>&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
               "color": "#3d8eb9",
               "text-align": "center",
-              "font-size": "32px",
+              "font-size": "36px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            },
+            "B": {
+              "font-size": "20px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         },
@@ -161,14 +169,15 @@
             },
             "H3": {
               "color": "#3d8eb9",
-              "font-size": "24px",
+              "font-size": "36px",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "SPAN": {
               "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -182,7 +191,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "we are a *<i>team*</i> of dedicated specialists.",
+          "title": "we are a <i>tea\u001b\u001b\u001bm</i>&nbsp;of dedicated specialists.",
           "meta": "<span style=\"font-style: normal;\">No departments here. We do everything together, as a group.&nbsp;</span>"
         },
         {
@@ -303,6 +312,74 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_anchor": "msg-box5-4s",
+          "_params": {
+            "imageSize": "57",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mobile-marketing2-1400x479.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "strategy x creativity x innovation &nbsp;&nbsp;",
+          "text": "We are <b>ad men</b>. We are <b>meme magicians</b>. We are <b>#HashtagPoets</b>. We are <b>master strategists</b>. We are <b>artists</b>.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "36px",
+              "color": "#3d8eb9",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_anchor": "msg-box5-4i",
           "_params": {
             "imageSize": 50,
@@ -359,7 +436,18 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            },
+            "B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            },
+            "SPAN": {
+              "font-size": "36px"
             }
           }
         },
@@ -443,7 +531,7 @@
           "_anchor": "footer1-49",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -523,7 +611,7 @@
           },
           "title1": "advertising",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ad creation (copywriting x graphic design). Media strategy. Campaign design and management. Analytics and more.",
+          "caption1": "Ad creation. Media strategy. Campaign design and management. Analytics.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -539,7 +627,7 @@
           },
           "title2": "social media",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Community development. Brand management. Content marketing. Creative campaigns and more.",
+          "caption2": "Community development. Brand management. Content marketing. Creative campaigns.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -555,7 +643,7 @@
           },
           "title3": "public relations",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Media relations. Reputation management. &nbsp;Event marketing. Customer service representation and more.",
+          "caption3": "Media relations. Reputation management. &nbsp;Event marketing. Customer service representation.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -599,8 +687,39 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#3d8eb9"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "36px",
+              "color": "#3d8eb9"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "our friends",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -648,7 +767,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cossette-black-rgb-600x153.png",
+              "src": "@PROJECT_PATH@/assets/images/xzzzx-600x192.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -718,6 +837,74 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4t",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-370x195.gif",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "we are ready to conquer. &nbsp;",
+          "text": "Is your brand?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#3d8eb9",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
@@ -1331,7 +1518,7 @@
           "_anchor": "footer1-3d",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
