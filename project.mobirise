@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 179,
+    "uniqCompNum": 180,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/s2d2-128x136.png",
     "noImageResize": ""
@@ -478,7 +478,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/machine-learning-2000x1229.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/machine_learning-2000x1229.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -492,22 +492,28 @@
             "showText": false,
             "showButton": false
           },
-          "title": "Do what you do best. We'll take care of the rest.<br><span style=\"font-weight: normal;\">digital marketing is what we live for.</span>",
+          "title": "Do what U do best. <br>We'll take care of the rest.<br><span style=\"font-weight: normal;\">digital marketing is what we live for.</span>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-40",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4z",
           "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/machine-learning-2000x1229.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-370x195.gif",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -515,15 +521,14 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
-            "showButtons": false
+            "showButton": false
           },
-          "title": "",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -785,7 +790,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/31082de41c08105be5fab2488f04bde9-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vision7-international-owler-20160228-002354-original-600x157.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
