@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 185,
+    "uniqCompNum": 186,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/s2d2-128x136.png",
     "noImageResize": ""
@@ -139,7 +139,7 @@
             }
           },
           "title": "marketing, simplified.",
-          "text": "SHAPIRO DIGITAL is a communications agency specializing in advertising, social media marketing and public relations. A one-stop shop with loads of talent and experience.",
+          "text": "<b>shapiro digital is a communications agency specializing in advertising, social media marketing and public relations. A one stop shop with loads of talent and experience.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
@@ -192,7 +192,7 @@
             "showMeta": true
           },
           "title": "we are a team&nbsp;of dedicated specialists.",
-          "meta": "<span style=\"font-style: normal;\">No departments here. We do everything together, as a group.&nbsp;</span>"
+          "meta": "<span style=\"font-style: normal;\"><b>No departments here. We do everything together, as a group.</b>&nbsp;</span>"
         },
         {
           "_tags": [
@@ -357,7 +357,7 @@
             }
           },
           "title": "<br>strategy x creativity x innovation &nbsp;&nbsp;",
-          "text": "We are ad men. We are strategy nerds, and talented artists, wordsmiths, meme magicians and&nbsp;#HashtagPoets.&nbsp;",
+          "text": "<b>We are ad men. We are strategy nerds and talented artists, wordsmiths, meme magicians and&nbsp;#HashtagPoets.</b>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
@@ -618,7 +618,7 @@
           },
           "title1": "advertising",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ad creation. Media strategy. Campaign design and management. Analytics.",
+          "caption1": "<b>Ad creation. Media strategy. Campaign design and management. Analytics.</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -634,7 +634,7 @@
           },
           "title2": "social media",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Community development. Brand management. Content marketing. Creative campaigns.",
+          "caption2": "<b>Community development. Brand management. Content marketing. Creative campaigns.</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -650,7 +650,7 @@
           },
           "title3": "public relations",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Media relations. Reputation management. &nbsp;Event marketing. Customer service representation.",
+          "caption3": "<b>Media relations. Reputation management. &nbsp; Customer service representation.</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -960,6 +960,32 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-55",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/shapirodigital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/shapiro-digital\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
